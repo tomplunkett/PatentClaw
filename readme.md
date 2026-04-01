@@ -2,7 +2,7 @@ A project using OpenClaw Agentic AI to assist Patent Professionals.
 
 PatentClaw links:
 
-PatentClaw Introduction: 
+PatentClaw Introduction: https://youtu.be/R8FDKz2F284
 
 Founder Introduction: https://www.youtube.com/watch?v=rmObdO-xZZ0
 
