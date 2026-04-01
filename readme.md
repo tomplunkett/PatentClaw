@@ -6,10 +6,7 @@ PatentClaw Introduction:
 
 Founder Introduction: https://www.youtube.com/watch?v=rmObdO-xZZ0
 
-Pitch Deck:  https://github.com/tomplunkett/PatentClaw/blob/main/PatentClaw%20OpenClaw%20Agentic%20AI%20for%20Patent%20Professionals.pdf
-
-
-
+Pitch Deck:  https://github.com/tomplunkett/PatentClaw/blob/main/PatentClawPitchDeck.pdf
 
 
 Project Abstract: 
