@@ -8,6 +8,7 @@ Founder Introduction: https://www.youtube.com/watch?v=rmObdO-xZZ0
 
 Pitch Deck:  https://github.com/tomplunkett/PatentClaw/blob/main/PatentClawPitchDeck.pdf
 
+Unboxing an HP ZGX Nano AI Station to work on this effort: https://youtu.be/fk7clYWRtQg
 
 Project Abstract: 
 This project explores the implementation of OpenClaw, an open-source agentic framework, to automate high-friction processes for patent professionals. OpenClaw operates as a local or private cloud-based "digital employee" with direct access to file systems, email servers, and specialized patent databases.
