@@ -4,8 +4,6 @@ PatentClaw links:
 
 PatentClaw Introduction: https://youtu.be/R8FDKz2F284
 
-Founder Introduction: https://www.youtube.com/watch?v=rmObdO-xZZ0
-
 Pitch Deck:  https://github.com/tomplunkett/PatentClaw/blob/main/PatentClawPitchDeck.pdf
 
 Unboxing an HP ZGX Nano AI Station to work on this effort: https://youtu.be/fk7clYWRtQg
