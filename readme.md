@@ -12,6 +12,8 @@ Pitch Deck: https://github.com/tomplunkett/PatentClaw/blob/main/PatentClawPitchD
 
 HP ZGX Nano AI Station Unboxing: https://youtu.be/fk7clYWRtQg
 
+Example Non-Engagement Letter Agent  https://github.com/tomplunkett/PatentClaw/blob/main/non-engagement-letter-agent.md
+
 ## Project Abstract
 
 PatentClaw explores the use of OpenClaw, an open-source agentic framework, to assist patent-practice workflows. OpenClaw can operate as a local or private-cloud "digital employee" with controlled access to file systems, email servers, patent resources, databases, templates, and firm workflow records.
