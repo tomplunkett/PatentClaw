@@ -1,6 +1,6 @@
 # PatentClaw
 
-PatentClaw uses OpenClaw agentic AI to formalize law-firm workflow controls and reduce preventable malpractice risk, using patent practice as the working example.
+PatentClaw uses OpenClaw agentic AI to assist patent law-firm workflows.
 
 Patent law is deadline-driven, document-heavy, and highly process-sensitive. That makes it a useful test case for agentic AI systems that monitor workflow, retrieve matter context, flag missing steps, preserve audit trails, and route critical decisions back to attorneys.
 
@@ -56,6 +56,4 @@ The patent-law example is the starting point. The larger goal is a reusable fram
 This project is for research, education, and workflow-design exploration only. It is not legal advice, insurance advice, or a substitute for professional judgment. Any real-world implementation should be reviewed by qualified attorneys, malpractice-risk professionals, insurance professionals, and technology/security experts.
 
 
-## Disclaimer
 
-This project is for research, education, and workflow-design exploration only. It is not legal advice, insurance advice, or a substitute for professional judgment. Any real-world implementation should be reviewed by qualified attorneys, malpractice-risk professionals, insurance professionals, and technology/security experts.
