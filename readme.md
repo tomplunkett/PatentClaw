@@ -23,9 +23,9 @@ Patent law is the working example because it is deadline-driven, document-heavy,
 
 Small firms usually do not lack legal knowledge. They lack the formal process infrastructure that larger firms already have.
 
-Malpractice insurance applications point to the kinds of controls insurers care about: docketing, conflicts, engagement letters, scope control, billing documentation, complaint handling, client screening, file review, backup coverage, trust-account procedures, information security, wire-instruction verification, and potential-claim reporting.
+Law firms need workflows for docketing, conflicts, engagement letters, scope control, billing documentation, complaint handling, client screening, file review, backup coverage, trust-account procedures, information security, and wire-instruction verification.
 
-PatentClaw focuses only on operational controls that agentic AI can realistically support. 
+PatentClaw focuses on operational controls that agentic AI can realistically support. 
 
 ## What Agentic AI Adds
 
