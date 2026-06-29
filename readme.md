@@ -2,7 +2,7 @@
 
 PatentClaw uses OpenClaw agentic AI to assist patent law-firm workflows.
 
-Patent law is deadline-driven, document-heavy, and highly process-sensitive. That makes it a useful test case for agentic AI systems that monitor workflow, retrieve matter context, flag missing steps, preserve audit trails, and route critical decisions back to attorneys.
+Patent law is deadline-driven, document-heavy, and highly process-sensitive. Patent law firms can benefit from agentic AI systems that monitor workflow, retrieve matter context, flag missing steps, preserve audit trails, and route critical decisions back to attorneys.
 
 ## Links
 
