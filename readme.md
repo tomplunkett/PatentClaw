@@ -44,11 +44,6 @@ Agents follow a controlled cycle: detect a new event, retrieve relevant material
 
 Example agents might handle intake, conflicts, docket monitoring, patent prosecution, prior art research, billing and scope review, complaint response, information-security checks, and matter closing.
 
-## Small Firm Focus
-
-Large firms often already have formal risk-management systems. Small firms and solo practices may rely on memory, email, informal habits, and individual follow-through.
-
-PatentClaw asks whether small firms can use agentic AI to gain some of the workflow discipline of larger firms without needing large-firm infrastructure.
 
 ## Design Principles
 
@@ -58,9 +53,8 @@ AI supports process; it does not replace attorney judgment. Important workflow s
 
 PatentClaw asks a practical question:
 
-Can agentic AI help small law firms adopt the workflow discipline that insurers, clients, and professional-responsibility systems already expect?
+Can agentic AI help law firms adopt the workflow discipline that insurers, clients, and professional-responsibility systems already expect?
 
-The patent-law example is the starting point. The larger goal is a reusable framework for safer, more reliable small-firm legal practice.
 
 ## Disclaimer
 
