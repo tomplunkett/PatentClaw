@@ -17,7 +17,7 @@ We demonstrate how OpenClaw agents can be deployed to handle complex, repetitive
 
 PatentClaw explores how agentic AI can help small law firms reduce preventable malpractice risk by making good workflow process easier to follow.
 
-Patent law is the working example because it is deadline-driven, document-heavy, and highly process-sensitive. The broader idea applies to many small-firm practices where claims often arise from missed deadlines, weak intake, poor documentation, unclear scope, conflicts issues, billing disputes, security gaps, or inconsistent follow-up.
+Patent law is the working example because it is deadline-driven, document-heavy, and highly process-sensitive. The broader idea applies to many small-firm practices where workflows can suffer from missed deadlines, weak intake, poor documentation, unclear scope, conflicts issues, billing disputes, security gaps, or inconsistent follow-up.
 
 ## Thesis
 
