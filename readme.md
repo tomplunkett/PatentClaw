@@ -1,4 +1,4 @@
-A project using OpenClaw Agentic AI to assist Patent Professionals.
+A project using OpenClaw Agentic AI to assist Patent law firm workflow processes.
 
 PatentClaw links:
 
@@ -9,33 +9,19 @@ Pitch Deck:  https://github.com/tomplunkett/PatentClaw/blob/main/PatentClawPitch
 Unboxing an HP ZGX Nano AI Station to work on this effort: https://youtu.be/fk7clYWRtQg
 
 Project Abstract: 
-This project explores the implementation of OpenClaw, an open-source agentic framework, to automate high-friction processes for patent professionals. OpenClaw operates as a local or private cloud-based "digital employee" with direct access to file systems, email servers, and specialized patent databases.
-
-We demonstrate how OpenClaw agents can be deployed to handle complex, repetitive tasks that typically consume the billable hours of attorneys and the administrative capacity of legal staff. 
+This project explores the implementation of OpenClaw, an open-source agentic framework, to assist patent professional workflows. OpenClaw operates as a local or private cloud-based "digital employee" with direct access to file systems, email servers, and specialized patent databases.  We demonstrate how OpenClaw agents can be deployed to assist complex, repetitive tasks that typically consume the billable hours of attorneys and the administrative capacity of legal staff. 
 
 # PatentClaw
 
-PatentClaw explores how agentic AI can help small law firms reduce preventable malpractice risk by making good workflow process easier to follow.
-
-Patent law is the working example because it is deadline-driven, document-heavy, and highly process-sensitive. The broader idea applies to many small-firm practices where workflows can suffer from missed deadlines, weak intake, poor documentation, unclear scope, conflicts issues, billing disputes, security gaps, or inconsistent follow-up.
+PatentClaw explores how agentic AI can help law firms automate workflow processes and reduce malpractice risk.  Patent law is deadline-driven, document-heavy, and highly process-sensitive. Many patent law processes can benefit from agentic-ai assistance.
 
 ## Thesis
 
-Small firms usually do not lack legal knowledge. They lack the formal process infrastructure that larger firms already have.
-
-Law firms need workflows for docketing, conflicts, engagement letters, scope control, billing documentation, complaint handling, client screening, file review, backup coverage, trust-account procedures, information security, and wire-instruction verification.
-
-PatentClaw focuses on operational controls that agentic AI can realistically support. 
+Law firms need workflows for docketing, conflicts, engagement letters, scope control, billing documentation, complaint handling, client screening, file review, backup coverage, trust-account procedures, information security, and wire-instruction verification.  PatentClaw focuses on operational controls that agentic AI can realistically support. 
 
 ## What Agentic AI Adds
 
-PatentClaw is not just a chatbot. It is a controlled agentic workflow system that can monitor matters, retrieve documents, check firm procedures, draft internal work product, flag missing steps, request attorney review, and preserve an audit trail.
-
-The attorney remains responsible for legal judgment, client advice, filings, and final approval.
-
-## Patent Law Use Case
-
-Patent practice provides a strong demonstration because workflow failures can be costly. PatentClaw can support invention disclosure intake, prior art tracking, patentability searches, third-party vendor tracking, prosecution deadlines, Office Action response workflows, IDS review, foreign filing decisions, client approval checkpoints, infringement counseling checklists, trademark/copyright workflows, and licensing review.
+PatentClaw is not just a chatbot. It is a controlled agentic workflow system that can monitor matters, retrieve documents, check firm procedures, draft internal work product, flag missing steps, request attorney review, and preserve an audit trail.  The attorney remains responsible for legal judgment, client advice, filings, and final approval.
 
 ## Technical Architecture
 
