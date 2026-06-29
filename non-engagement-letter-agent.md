@@ -72,6 +72,18 @@ The agent should not provide legal advice, evaluate the merits of the prospectiv
 
 If the intake record mentions an urgent deadline, statute of limitations, filing date, or response date, the agent should escalate the draft for priority attorney review.
 
+## Audit Log Example
+Matter: Prospective Client - ACME Widget Disclosure
+Status: Declined
+Trigger: Intake status changed to declined
+Template: Non-Engagement Patent Inquiry v1.2
+Draft Created: 2026-06-29 10:14 AM
+Risk Flags: Possible public disclosure date mentioned
+Reviewer: Responsible Attorney
+Approval Status: Pending
+Delivery Status: Not sent
+
+
 ## Example Agent Instruction
 
 ```text
@@ -80,3 +92,6 @@ When a prospective-client matter is marked declined, conflict, out of scope, not
 If no letter is found, draft a non-engagement letter using the approved firm template, populate known intake information, flag any urgent dates or risk indicators, and route the draft to the responsible attorney for review.
 
 Do not send the letter or communicate with the prospective client unless attorney approval is recorded. Log all actions, sources, template versions, approvals, and delivery records.
+
+
+
