@@ -1,4 +1,4 @@
-A project using OpenClaw Agentic AI to assist Patent law firm workflow processes.
+A project using OpenClaw Agentic AI to assist Patent law firm processes.
 
 PatentClaw links:
 
