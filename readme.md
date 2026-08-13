@@ -1,5 +1,14 @@
 # PatentClaw
 
+My PatentClaw project changed significantly based on my experiences in participating in the University of California Berkeley's Agentic AI Summit that was held on July 31-August 2nd.  https://rdi.berkeley.edu/events/agentic-ai-summit-2026
+
+My focus is now on how to ensure data confidentiality when using Agentic AI.  
+
+Here is the poster presentation I gave: https://github.com/tomplunkett/PatentClaw/blob/main/PatentClaw_Poster.pdf
+
+
+
+
 PatentClaw uses OpenClaw agentic AI to assist patent practice workflows.
 
 Patent law is deadline-driven, document-heavy, and highly process-sensitive. Firms can benefit from agentic AI systems that monitor workflow, retrieve matter context, flag missing steps, preserve audit trails, and route critical decisions back to attorneys.
